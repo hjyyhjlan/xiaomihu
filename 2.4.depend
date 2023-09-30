@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1655619651 source:e:\myproject\2022\2.4\main.cpp
+	<iostream>
+	<cmath>
+
